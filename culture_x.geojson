@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "name": "culture",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+    {   "type": "Feature", 
+        "properties": { 
+            "_site":"C01",
+            "_name":"C01 清水の名水",
+            "_explanation":"",
+            "_geo":"「清水の名水」は高さ20 mほどの段丘崖の中ほどから湧き出す湧水です。この段丘崖はせん断を受けた泥岩が主体で、砂岩のブロックを含む清水層の露頭でもあります。",
+            "_nature":"",
+            "_culture":"古来より港を出入りする船舶の給水地点の役割を果してきたとされ、土佐清水という地名の由来にもなっており、清水浦の発展に大きく寄与してきた歴史を知ることができます。",
+            "_photo":["C01"],
+            "_point":[32.7679521, 132.9577016],
+            "_parking":"×",
+            "_wc":"×",
+            "_busstop":["浜(清水)",1],
+            "_evacu":["県道",5],
+            "_assets":"",
+            "_attribution":"culture_site"
+            },
+        "geometry": { 
+            "type": "Point", 
+            "coordinates":[132.9577016,32.7679521]
+            }
+        } ,
+    {   "type": "Feature", 
+        "properties": { 
+            "_site":"C02",
+            "_name":"C02 吉福家住宅",
+            "_explanation":"The village flourished in the Edo period (1603-1868), when fishermen from Kishu (present-day Wakayama Prefecture) taught local people how to catch fish in the open sea and how to make katsuobushi, smoked and dried fish fillets, long considered an essential ingredient in Japanese cuisine. The people of Matsuo also participated in the maritime trade, and some established successful shipping companies. One of these was run by the Yoshifuku family, whose luxurious Meiji-era (1868-1912) house serves as a reminder of the heyday of the settlement.",
+            "_geo":"",
+            "_nature":"",
+            "_culture":"吉福家住宅は、明治34年（1901）、廻船業、漁業、鰹節製造業などで成功を収めた吉福の二代目、嘉太郎の自宅として建築された建造物です。東側を暴風壁として築かれた花崗岩の石垣に守られ、主屋・倉・門・離れの建物が揃って保存されています。武家風空間、商家風空間、網元屋敷風空間が併存しており、天井裏は大漁を祈願した船の櫓が仕込まれているなど、高知県西南部の網元の暮らしを知るうえで貴重な近代建築として唯一のものであり、国指定重要文化財に指定されています。",
+            "_photo":["C02"],
+            "_point":[32.73312, 132.983753],
+            "_parking":"〇",
+            "_wc":"×",
+            "_busstop":["松尾区長場前",1],
+            "_evacu":["津波浸水エリア外",0],
+            "_assets":"国　重要文化財：吉福家住宅",
+            "_attribution":"culture_site"
+            },
+        "geometry": { 
+            "type": "Point", 
+            "coordinates":[132.983753,32.73312]
+            }
+        },
+    { "type": "Feature", 
+        "properties": { 
+            "_site":"C03",
+            "_name":"C03 松尾金比羅宮石灯篭",
+            "_explanation":"",
+            "_geo":"",
+            "_nature":"",
+            "_culture":"土佐清水市松尾地区の北の山腹に位置する金毘羅宮祀の境内に位置する砂岩製の石灯籠です。安政7年（1860）年3月建立で、灯台のない当時、その役目を果たしていたものと言われています。台座3段目の側面には寄進者の名や屋号、4段目の側面には松竹梅の図が刻まれた凝った造りで、この石灯籠の大きさとともに、藩政時代の松尾地区における鰹漁業・廻船業の盛況を物語る貴重な資料です。この石灯籠の台石にしている砂岩は同市西部の三崎地区に分布する三崎層群由来の砂岩（三崎石）であると考えられ、当時の石材利用を示す資料にもなっています。",
+            "_photo":["C03"],
+            "_point":[32.73487, 132.98261],
+            "_parking":"×",
+            "_wc":"×",
+            "_busstop":["松尾西口",6],
+            "_evacu":["津波浸水エリア外",0],
+            "_assets":"市　有形文化財：松尾金比羅宮石灯篭",
+            "_attribution":"culture_site"
+            },
+        "geometry": { 
+            "type": "Point", 
+            "coordinates":[132.98261,32.73487]
+            }
+        }
+    ]
+}
