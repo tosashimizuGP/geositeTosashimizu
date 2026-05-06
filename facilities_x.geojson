@@ -115,7 +115,8 @@
         { "type": "Feature", "properties": { 
             "_name":"爪白キャンプ場",
             "_attr":"P",
-            "_image":[""],
+            "_image":["tsumajiroC","tsumajiroC2"],
+            "_note" :["駐車場入り口","５０台以上"],
             "_explanation":"",
             "_offset":10,
             "_attribution":"facilities"
@@ -158,7 +159,8 @@
         { "type": "Feature", "properties": { 
             "_name":"ジョン万資料館",
             "_attr":"P wc",
-            "_image":[""],
+            "_image":["john_mung"],
+            "_note" :["３０台以上"],
             "_explanation":"",
             "_offset":10,
             "_attribution":"facilities"
@@ -166,14 +168,26 @@
         "geometry":{"type":"Point","coordinates":[132.9320318708051,32.78214120109914]}},
 
         { "type": "Feature", "properties": { 
-            "_name":"窪津漁港",
+            "_name":"窪津漁港ふれあい公園",
             "_attr":"P wc",
-            "_image":[""],
+            "_image":["kubotsuWC","kubotsuWC2"],
+            "_note" :["窪津漁港ふれあい公園　１５台程度"],
             "_explanation":"",
             "_offset":10,
             "_attribution":"facilities"
         },
-        "geometry":{"type":"Point","coordinates":[132.99958491377768, 32.78752971383883]}},
+        "geometry":{"type":"Point","coordinates":[132.999672, 32.787417]}},
+
+        { "type": "Feature", "properties": { 
+            "_name":"窪津漁港",
+            "_attr":"P wc",
+            "_image":["kubotsuFP"],
+            "_note" :["窪津漁港　１０台"],
+            "_explanation":"",
+            "_offset":10,
+            "_attribution":"facilities"
+        },
+        "geometry":{"type":"Point","coordinates":[132.997156, 32.786797]}},
 
         { "type": "Feature", "properties": { 
             "_name":"大芝山展望所",
@@ -248,38 +262,46 @@
             "_offset":10,
             "_attribution":"facilities"
         },
-        "geometry":{"type":"Point","coordinates":[132.93562602761088,32.903182080452694]}},
+       "geometry":{"type":"Point","coordinates":[132.93562602761088,32.903182080452694]}},
         
         { "type": "Feature", "properties": { 
             "_name":"大岐の浜展望駐車場",
             "_attr":"P",
-            "_image":[""],
+            "_image":["okiObsP1"],
+            "_note" :["７台"],
             "_explanation":"",
-            "_offset":10,
-            "_attribution":"facilities"
+            "_offset":10
         },
-        "geometry":{"type":"Point","coordinates":[132.951191,32.826035]}},
+        "geometry":{"type":"Point","coordinates":[132.951236,32.826042]}},
         
         { "type": "Feature", "properties": { 
-            "_name":"大岐の浜",
-            "_attr":"P wc",
-            "_image":[""],
+            "_name":"大岐浜中央",
+            "_attr":"P",
+            "_image":["okiCpark"],
+            "_note" :["６４台"],
             "_explanation":"",
-            "_offset":10,
-            "_attribution":"facilities"
+            "_offset":10
         },
-        "geometry":{"type":"Point","coordinates":[132.94859933826956,32.820252728095546]}},
+        "geometry":{"type":"Point","coordinates":[132.947556,32.820184]}},
 
         { "type": "Feature", "properties": { 
-            "_name":"大岐の浜北",
+            "_name":"大岐浜中央",
             "_attr":"wc",
-            "_image":[""],
-            "_explanation":"",
-            "_offset":10,
-            "_attribution":"facilities"
+            "_image":["okiCWC"],
+            "_explanation":"多目的トイレあり",
+            "_offset":10
         },
-        "geometry":{"type":"Point","coordinates":[132.95009815647066,32.82479280439525]}},
-        
+        "geometry":{"type":"Point","coordinates":[132.949166,32.820303]}},
+
+        { "type": "Feature", "properties": { 
+            "_name":"大岐浜東側",
+            "_attr":"wc",
+            "_image":["okiEastWC1","okiEastWC2","okiEastWC3"],
+            "_explanation":"多目的トイレあり",
+            "_offset":10
+        },
+        "geometry":{"type":"Point","coordinates":[132.950210,32.82479280439525]}},
+
         { "type": "Feature", "properties": { 
             "_name":"唐人駄場",
             "_attr":"P wc",
@@ -294,8 +316,8 @@
         { "type": "Feature", "properties": { 
             "_name":"布漁港",
             "_attr":"wc",
-            "_image":[""],
-            "_explanation":"",
+            "_image":["nuno"],
+            "_explanation":"多目的トイレあり",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -304,8 +326,8 @@
         { "type": "Feature", "properties": { 
             "_name":"下ノ加江",
             "_attr":"P wc",
-            "_image":[""],
-            "_explanation":"旧下ノ加江中学校横",
+            "_image":["shimonokae1","shimonokae2"],
+            "_explanation":"旧下ノ加江中学校横　多目的トイレあり",
             "_offset":10,
             "_attribution":"facilities"
         },
