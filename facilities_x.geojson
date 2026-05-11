@@ -51,7 +51,7 @@
             "_attr":"P wc",
             "_image":["nikonikoP","nikonikoWC","nikonikoWC2"],
             "_note" :["駐車場","トイレ外観","多目的トイレ"],
-            "_explanation":"多目的トイレあり",
+            "_explanation":"１５台以上　多目的トイレあり",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -117,7 +117,7 @@
             "_attr":"P",
             "_image":["tsumajiroC","tsumajiroC2"],
             "_note" :["駐車場入り口","５０台以上"],
-            "_explanation":"",
+            "_explanation":"５０台以上",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -161,7 +161,7 @@
             "_attr":"P wc",
             "_image":["john_mung"],
             "_note" :["３０台以上"],
-            "_explanation":"",
+            "_explanation":"３０台以上",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -172,7 +172,7 @@
             "_attr":"P wc",
             "_image":["kubotsuWC","kubotsuWC2"],
             "_note" :["窪津漁港ふれあい公園　１５台程度"],
-            "_explanation":"",
+            "_explanation":"１５台程度",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -183,7 +183,7 @@
             "_attr":"P wc",
             "_image":["kubotsuFP"],
             "_note" :["窪津漁港　１０台"],
-            "_explanation":"",
+            "_explanation":"１０台",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -199,17 +199,6 @@
         },
         "geometry":{"type":"Point","coordinates":[132.99022078514102, 32.76076310646737]}},
         
-        { "type": "Feature", "properties": { 
-            "_name":"叶崎展望台",
-            "_attr":"P",
-            "_image":["kanaezakiObs"],
-            "_note" :["国道３２１号　東向き"],
-            "_explanation":"",
-            "_offset":10,
-            "_attribution":"facilities"
-        },
-        "geometry":{"type":"Point","coordinates":[132.79882371425632, 32.74924404069396]}},
-
         { "type": "Feature", "properties": { 
             "_name":"足摺岬東駐車場",
             "_attr":"P",
@@ -237,7 +226,7 @@
             "_attr":"P",
             "_image":["matsuoP1","matsuoP2"],
             "_note" :["東向き","西向き"],
-            "_explanation":"",
+            "_explanation":"３台程度",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -269,7 +258,7 @@
             "_attr":"P",
             "_image":["okiObsP1"],
             "_note" :["７台"],
-            "_explanation":"",
+            "_explanation":"７台",
             "_offset":10
         },
         "geometry":{"type":"Point","coordinates":[132.951236,32.826042]}},
@@ -307,7 +296,7 @@
             "_attr":"P wc",
             "_image":["tojinP","tojinWC"],
             "_note" :["駐車場","トイレ外観"],
-            "_explanation":"多目的トイレ有",
+            "_explanation":"５台程度　多目的トイレ有",
             "_offset":10,
             "_attribution":"facilities"
         },
@@ -348,11 +337,22 @@
             "_name":"叶崎駐車場",
             "_attr":"P",
             "_image":["kanaezaki_P1","kanaezaki_P2"],
-            "_explanation":"",
+            "_explanation":"１０台程度",
             "_offset":10,
             "_attribution":"facilities"
         },
         "geometry":{"type":"Point","coordinates":[132.802584,32.749724]}},  
+
+        { "type": "Feature", "properties": { 
+            "_name":"叶崎展望台",
+            "_attr":"P",
+            "_image":["kanaezakiObs"],
+            "_note" :["国道３２１号　東向き"],
+            "_explanation":"３台程度",
+            "_offset":10,
+            "_attribution":"facilities"
+        },
+        "geometry":{"type":"Point","coordinates":[132.79882371425632, 32.74924404069396]}},
         
         { "type": "Feature", "properties": { 
             "_name":"叶崎トイレ",
